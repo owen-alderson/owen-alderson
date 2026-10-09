@@ -5,10 +5,10 @@ From SF, work in NYC, and study business and computer science (AI) at IE Univers
   <img src="https://cdn.simpleicons.org/python/7d8590" alt="Python" title="Python" height="20">
   <img src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++" title="C++" height="20">
   <img src="https://cdn.simpleicons.org/c/7d8590" alt="C" title="C" height="20">
-  <img src="icons/csharp.svg" alt="C#" title="C#" height="20">
   <img src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript" title="TypeScript" height="20">
   <img src="https://cdn.simpleicons.org/javascript/7d8590" alt="JavaScript" title="JavaScript" height="20">
   <img src="icons/java.svg" alt="Java" title="Java" height="20">
+  <img src="icons/csharp.svg" alt="C#" title="C#" height="20">
   <img src="https://cdn.simpleicons.org/fastapi/7d8590" alt="FastAPI" title="FastAPI" height="20">
   <img src="https://cdn.simpleicons.org/sqlite/7d8590" alt="SQLite" title="SQLite" height="20">
   <img src="https://cdn.simpleicons.org/docker/7d8590" alt="Docker" title="Docker" height="20">
