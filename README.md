@@ -1,5 +1,5 @@
 <!-- Draft bio, shared with the portfolio site. Owen to rewrite in his own words. -->
-From SF, work in NYC, and study business and computer science (AI) at IE University in Madrid.  I build software for trading desks and the workflows around them. This summer I was a financial markets intern at Ripple Prime in New York. Three of the tools I built there are in production.
+Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (AI) at IE University in Madrid.  I build software for trading desks and the workflows around them. This summer I was a financial markets intern at Ripple Prime in New York. Three of the tools I built there are in production.
 
 <p>
   <img src="https://cdn.simpleicons.org/python/7d8590" alt="Python" title="Python" height="20">
