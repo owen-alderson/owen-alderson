@@ -50,4 +50,4 @@ In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market m
 
 Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [financial-ratio-analyzer](https://github.com/owen-alderson/financial-ratio-analyzer), [pdf-research-summarizer](https://github.com/owen-alderson/pdf-research-summarizer), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-alderson&layout=compact&hide_border=true&bg_color=00000000&title_color=7d8590&text_color=7d8590&langs_count=6" alt="Most used languages" height="140">
+<img src="profile/top-langs.svg" alt="Most used languages" height="140">
