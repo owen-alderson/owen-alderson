@@ -1,4 +1,3 @@
-<!-- Draft bio, shared with the portfolio site. Owen to rewrite in his own words. -->
 Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (AI) at IE University in Madrid.  I build software for trading desks and the workflows around them. This summer I was a financial markets intern at Ripple Prime in New York. Three of the tools I built there are in production.
 
 <p>
@@ -50,6 +49,6 @@ In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market m
 
 Also: [outreach-desk](https://github.com/owen-alderson/outreach-desk), where Claude drafts outreach and nothing is sent until a person approves it.
 
-Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [financial-ratio-analyzer](https://github.com/owen-alderson/financial-ratio-analyzer), [pdf-research-summarizer](https://github.com/owen-alderson/pdf-research-summarizer), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
+Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [edgar-ratios](https://github.com/owen-alderson/edgar-ratios), [pagecite](https://github.com/owen-alderson/pagecite), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
 
 <img src="profile/top-langs.svg" alt="Most used languages" height="140">
