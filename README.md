@@ -45,8 +45,6 @@ Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (
   </tr>
 </table>
 
-In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market making research for Kalshi's hourly crypto strike ladders. Built so far: an order book recorder, options-implied fair values, and a C++ backtester that models queue position.
-
 Also: [outreach-desk](https://github.com/owen-alderson/outreach-desk), where Claude drafts outreach and nothing is sent until a person approves it.
 
 Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [edgar-ratios](https://github.com/owen-alderson/edgar-ratios), [pagecite](https://github.com/owen-alderson/pagecite), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
