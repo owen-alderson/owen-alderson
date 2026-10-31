@@ -1,4 +1,3 @@
-<!-- Draft bio, shared with the portfolio site. Owen to rewrite in his own words. -->
 Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (AI) at IE University in Madrid.  I build software for trading desks and the workflows around them. This summer I was a financial markets intern at Ripple Prime in New York. Three of the tools I built there are in production.
 
 <p>
@@ -34,9 +33,9 @@ Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/owen-alderson/outreach-desk"><img src="https://github.com/owen-alderson/outreach-desk/raw/main/docs/demo.gif" alt="outreach-desk demo" width="100%"></a>
-      <br><a href="https://github.com/owen-alderson/outreach-desk"><b>outreach-desk</b></a>
-      <br>Claude drafts outreach, a typed-decision model checks each draft, and nothing is sent until a person approves it.
+      <a href="https://github.com/owen-alderson/falsealpha"><img src="https://github.com/owen-alderson/falsealpha/raw/main/docs/demo.gif" alt="falsealpha demo" width="100%"></a>
+      <br><a href="https://github.com/owen-alderson/falsealpha"><b>falsealpha</b></a>
+      <br>A C++ engine that searches thousands of formulaic trading signals, then tells you which of its own discoveries are fake. On six years of Binance Vision data it tried 7,376 formulas and passed none. Published on <a href="https://pypi.org/project/falsealpha/">PyPI</a>.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/owen-alderson/backlinker"><img src="https://github.com/owen-alderson/backlinker/raw/main/docs/demo.gif" alt="backlinker demo" width="100%"></a>
@@ -46,8 +45,8 @@ Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (
   </tr>
 </table>
 
-In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market making research for Kalshi's hourly crypto strike ladders, with a C++ backtester that models queue position.
+Also: [outreach-desk](https://github.com/owen-alderson/outreach-desk), where Claude drafts outreach and nothing is sent until a person approves it.
 
-Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [financial-ratio-analyzer](https://github.com/owen-alderson/financial-ratio-analyzer), [pdf-research-summarizer](https://github.com/owen-alderson/pdf-research-summarizer), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
+Smaller things: [expense-splitter](https://github.com/owen-alderson/expense-splitter), [workout-tracker](https://github.com/owen-alderson/workout-tracker), [edgar-ratios](https://github.com/owen-alderson/edgar-ratios), [pagecite](https://github.com/owen-alderson/pagecite), [waitlist-generator](https://github.com/owen-alderson/waitlist-generator).
 
 <img src="profile/top-langs.svg" alt="Most used languages" height="140">
