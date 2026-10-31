@@ -35,7 +35,7 @@ Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (
     <td width="50%" valign="top">
       <a href="https://github.com/owen-alderson/falsealpha"><img src="https://github.com/owen-alderson/falsealpha/raw/main/docs/demo.gif" alt="falsealpha demo" width="100%"></a>
       <br><a href="https://github.com/owen-alderson/falsealpha"><b>falsealpha</b></a>
-      <br>A C++ engine that searches thousands of formulaic trading signals, then tells you which of its own discoveries are fake. On six years of Binance data it tried 7,376 formulas and passed none. Published on <a href="https://pypi.org/project/falsealpha/">PyPI</a>.
+      <br>A C++ engine that searches thousands of formulaic trading signals, then tells you which of its own discoveries are fake. On six years of Binance Vision data it tried 7,376 formulas and passed none. Published on <a href="https://pypi.org/project/falsealpha/">PyPI</a>.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/owen-alderson/backlinker"><img src="https://github.com/owen-alderson/backlinker/raw/main/docs/demo.gif" alt="backlinker demo" width="100%"></a>
@@ -45,7 +45,7 @@ Hi I'm Owen! I'm from SF, work in NYC, and study business and computer science (
   </tr>
 </table>
 
-In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market making research for Kalshi's hourly crypto strike ladders. Built so far: an order book recorder, options-implied fair values, and a C++ backtester that models queue position. The first study, over 1,377 settled hours, found Kalshi's prices forecast better than an options model.
+In progress: [ladderbook](https://github.com/owen-alderson/ladderbook), market making research for Kalshi's hourly crypto strike ladders. Built so far: an order book recorder, options-implied fair values, and a C++ backtester that models queue position.
 
 Also: [outreach-desk](https://github.com/owen-alderson/outreach-desk), where Claude drafts outreach and nothing is sent until a person approves it.
 
